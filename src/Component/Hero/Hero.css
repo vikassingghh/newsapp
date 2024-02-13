@@ -1,0 +1,12 @@
+.row{
+    background: #e5e5e5;
+}
+h1{
+    line-height: 100px;
+}
+.col-lg-6 img{
+    max-width: 100%;
+    height: auto;
+    width: 50%;
+    border-radius: 2rem;
+}
